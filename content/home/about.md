@@ -26,6 +26,11 @@ weight = 5
   course = "Minor in Statistics"
   institution = "University of Maryland, College Park"
   year = 2016
+
+[[education.courses]]
+  course = "Java Web Bootcamp"
+  institution = "Montgomery College"
+  year = 2018
  
 +++
 
