@@ -35,7 +35,7 @@ selected = true
 #projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = "https://cmt3.research.microsoft.com/api/DCC2018/Files/21"
+url_pdf = "https://www.researchgate.net/profile/Chiman_Kwan/publication/323153746_High_Performance_Video_Codec_with_Error_Concealment/links/5a835ee40f7e9bda86a457f9/High-Performance-Video-Codec-with-Error-Concealment.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
