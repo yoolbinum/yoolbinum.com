@@ -10,6 +10,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
+    "Java Spring Framework",
     "ASP.NET Development",
     "Full Stack Development",
     "Mobile Development",
@@ -36,4 +37,4 @@ weight = 5
 
 # Biography
 
-Hi, I'm Yool-bin, a recent grad from University of Maryland, studied in Computer Science. I'm a highly motivated developer, constantly seeking new, challening, and exciting opportunities to improve my abilities.
+Hi, I'm Yool-bin, a grad from University of Maryland, studied in Computer Science. I also recently attended Montgomery College Bootcamp. I'm a highly motivated developer, constantly seeking new, challening, and exciting opportunities to improve my abilities.

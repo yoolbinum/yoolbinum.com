@@ -1,6 +1,6 @@
 +++
 title = "High Performance Video Codec with Error Concealment"
-date = "2018-01-01"
+date = "2018-0-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Chiman Kwan", "Edward Shi", "Yool-Bin Um"]
@@ -50,7 +50,6 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
 caption = "My caption :smile:"
 
 +++
